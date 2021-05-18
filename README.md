@@ -40,7 +40,7 @@ For example, there are two shareholders A and B with shares of 10 and 40 ENX res
 
 ## Key points
 
-When you use traditional **Uniswap-like AMM DEXes**, you always make so called "approve" operation. If you confirm it by default, you allow all possible amount of approved token to be managed by the DEX smart contract. This is a serious security problem as it **breaks one of the main principles of a cryptocurrency** --- the owner and only the owner of assets should have full control over the assets. Architecture of Enecuum Network without approval functionality opposite to Ethereum based blockchains **make your pools secure and leave you full control over the funds**. 
+When you use traditional **Uniswap-like AMM DEXes**, you always make so called "approve" operation. If you confirm it by default, you allow all possible amount of approved token to be managed by the DEX smart contract. This is a serious security problem as it **breaks one of the main principles of a cryptocurrency** - the owner and only the owner of assets should have full control over the assets. Architecture of Enecuum Network without approval functionality opposite to Ethereum based blockchains **make your pools secure and leave you full control over the funds**. 
 
 _**To get more details go to:**_
 
