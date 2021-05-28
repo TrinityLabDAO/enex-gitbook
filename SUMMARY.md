@@ -43,7 +43,7 @@
 * [开发指南](guides-and-faq-1/development-guide.md)
 * [社区](guides-and-faq-1/communities.md)
 * [如何创建一个Enecuum钱包](guides-and-faq-1/how-to-create-an-enecuum-wallet.md)
-* [How to receive $ENX after unlocking](guides-and-faq-1/how-to-receive-usdenx-after-unlocking.md)
+* [解锁后如何收到$ENX](guides-and-faq-1/how-to-receive-usdenx-after-unlocking.md)
 * [品牌概览](guides-and-faq-1/brand-book.md)
 
 ## Core Math
