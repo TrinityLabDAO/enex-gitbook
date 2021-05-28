@@ -1,28 +1,28 @@
 ---
-description: Small guide about receiving $ENX
+description: Pequeña guía sobre la recepción $ENX
 ---
 
-# How to receive $ENX after unlocking
+# Cómo recibir $ENX después de desbloquear
 
-1. Using your pc or laptop go to [https://vesting.enex.space/](https://vesting.enex.space/%20) 
+1. Uso de su pc o portátil ir a [https://vesting.enex.space/](https://vesting.enex.space/%20) 
 
 ![ https://vesting.enex.space/ ](../.gitbook/assets/image%20%2810%29.png)
 
-2. Connect your MetaMask via button:”Connect MetaMask”
+2. Conecte su MetaMask a través del botón: ”Connect MetaMask”
 
 ![MetaMask connection](../.gitbook/assets/image%20%2812%29.png)
 
-3. Your MetaMask connected successfully
+3. Su MetaMask conectado con éxito
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-If you had taken a part in $ENX distribution - you will see your **smart contract address**, **the amount of $ENX you have to receive** and **the available amount of $ENX** to release now.
+Si ha tomado parte en la distribución de **$ENX**, verá su dirección de contrato inteligente, la cantidad de **$ENX** que debe recibir y la cantidad disponible de **$ENX** para liberar ahora.
 
-4. Push the "Release" button, set gas in MetaMask and approve the transaction. 
+4. Presione el botón "Release", fije el gas en MetaMask y apruebe la transacción.
 
-You can check everything there: [https://github.com/TrinityLabDAO/enx-vesting  
+Usted puede comprobar todo allí: [https://github.com/TrinityLabDAO/enx-vesting  
 ](https://github.com/TrinityLabDAO/enx-vesting
-)Smart Contract's list: [https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js](https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js)  
+)Lista de Contratos inteligentes: [https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js](https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js)  
 MetaMask: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
 

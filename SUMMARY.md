@@ -43,7 +43,7 @@
 * [Guía de desarrollo](guides-and-faq-1/development-guide.md)
 * [Comunidades](guides-and-faq-1/communities.md)
 * [Cómo crear una billetera Enecuum](guides-and-faq-1/how-to-create-an-enecuum-wallet.md)
-* [How to receive $ENX after unlocking](guides-and-faq-1/how-to-receive-usdenx-after-unlocking.md)
+* [Cómo recibir $ENX después de desbloquear](guides-and-faq-1/how-to-receive-usdenx-after-unlocking.md)
 * [Libro de marca](guides-and-faq-1/brand-book.md)
 
 ## Core Math
