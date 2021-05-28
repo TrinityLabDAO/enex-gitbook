@@ -1,5 +1,5 @@
 ---
-description: Small guid about receiving $ENX
+description: Small guide about receiving $ENX
 ---
 
 # How to receive $ENX after unlocking
