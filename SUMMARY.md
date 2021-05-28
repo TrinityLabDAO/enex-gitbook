@@ -43,7 +43,7 @@
 * [Development Guide](guides-and-faq-1/development-guide.md)
 * [Communities](guides-and-faq-1/communities.md)
 * [Enecuum cüzdanı nasıl oluşturulur](guides-and-faq-1/how-to-create-an-enecuum-wallet.md)
-* [How to receive $ENX after unlocking](guides-and-faq-1/how-to-receive-usdenx-after-unlocking.md)
+* [Kilidini açtıktan sonra $ENX nasıl alınır](guides-and-faq-1/how-to-receive-usdenx-after-unlocking.md)
 * [Marka Kitapçığı](guides-and-faq-1/brand-book.md)
 
 ## Core Math

@@ -1,28 +1,28 @@
 ---
-description: Small guide about receiving $ENX
+description: $ENX alma hakkında küçük bir rehber
 ---
 
-# How to receive $ENX after unlocking
+# Kilidini açtıktan sonra $ENX nasıl alınır
 
-1. Using your pc or laptop go to [https://vesting.enex.space/](https://vesting.enex.space/%20) 
+1. Bilgisayarınızı veya dizüstü bilgisayarınızı kullanma [https://vesting.enex.space/](https://vesting.enex.space/%20) 
 
 ![ https://vesting.enex.space/ ](../.gitbook/assets/image%20%2810%29.png)
 
-2. Connect your MetaMask via button:”Connect MetaMask”
+2. Metamask'ınızı bir düğme ile bağlayın:”Connect MetaMask”
 
 ![MetaMask connection](../.gitbook/assets/image%20%2812%29.png)
 
-3. Your MetaMask connected successfully
+3. Metamask'ınız başarıyla bağlandı
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-If you had taken a part in $ENX distribution - you will see your **smart contract address**, **the amount of $ENX you have to receive** and **the available amount of $ENX** to release now.
+**$ENX** dağıtımına katıldıysanız-akıllı sözleşme adresinizi, almanız gereken **$ENX** miktarını ve şimdi serbest bırakmak için mevcut **$ENX** miktarını göreceksiniz.
 
-4. Push the "Release" button, set gas in MetaMask and approve the transaction. 
+4. "Release" düğmesine basın, metamask'ta gaz ayarlayın ve İşlemi onaylayın.
 
-You can check everything there: [https://github.com/TrinityLabDAO/enx-vesting  
+Orada her şeyi kontrol edebilirsiniz: [https://github.com/TrinityLabDAO/enx-vesting  
 ](https://github.com/TrinityLabDAO/enx-vesting
-)Smart Contract's list: [https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js](https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js)  
+)Akıllı Sözleşmenin listesi: [https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js](https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js)  
 MetaMask: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
 
