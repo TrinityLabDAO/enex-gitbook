@@ -37,14 +37,14 @@
 
 * [Tokenomics](tokenomics.md)
 
-## Guides & FAQ <a id="guides-and-faq-1"></a>
+## Guides & FAQ
 
-* [Ecosystem](guides-and-faq-1/ecosystem.md)
-* [Development Guide](guides-and-faq-1/development-guide.md)
-* [Communities](guides-and-faq-1/communities.md)
-* [How to create an Enecuum wallet](guides-and-faq-1/how-to-create-an-enecuum-wallet.md)
-* [How to receive $ENX after unlocking](guides-and-faq-1/how-to-receive-usdenx-after-unlocking.md)
-* [Brand Book](guides-and-faq-1/brand-book.md)
+* [Ecosystem](guides-and-faq/ecosystem.md)
+* [Development Guide](guides-and-faq/development-guide.md)
+* [Communities](guides-and-faq/communities.md)
+* [How to create an Enecuum wallet](guides-and-faq/how-to-create-an-enecuum-wallet.md)
+* [How to receive $ENX after unlocking](guides-and-faq/how-to-receive-usdenx-after-unlocking.md)
+* [Brand Book](guides-and-faq/brand-book.md)
 
 ## Core Math
 
