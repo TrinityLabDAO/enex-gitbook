@@ -43,7 +43,7 @@
 * [Руководство по разработке](guides-and-faq-1/development-guide.md)
 * [Комьюнити](guides-and-faq-1/communities.md)
 * [Как создать кошелек Enecuum](guides-and-faq-1/how-to-create-an-enecuum-wallet.md)
-* [How to receive $ENX after unlocking](guides-and-faq-1/untitled.md)
+* [Как получить $ENX после разблокировки](guides-and-faq-1/untitled.md)
 * [Брендбук](guides-and-faq-1/brand-book.md)
 
 ## Core Math
