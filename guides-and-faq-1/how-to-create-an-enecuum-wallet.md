@@ -1,48 +1,52 @@
 ---
 description: >-
-  A short guide to help new users quickly and securely create an Enecuum
-  blockchain wallet
+  Yeni kullanıcıların hızlı ve güvenli bir şekilde Enecuum blok zinciri
+  oluşturmasına yardımcı olacak kısa bir kılavuz
 ---
 
-# How to create an Enecuum wallet
+# Enecuum cüzdanı nasıl oluşturulur
 
-## 1st step
+## 1 adım
 
-Go to [https://wallet.enecuum.com/](https://wallet.enecuum.com/)
+[https://wallet.enecuum.com/](https://wallet.enecuum.com/)
 
 ![wallet.enecuum.com](../.gitbook/assets/image%20%285%29.png)
 
-## 2nd step
+## 2 adım
 
-Click "Sign Up"
+"Kaydol"a tıklayın
 
 ![Click &quot;Sign Up&quot;](../.gitbook/assets/image%20%287%29.png)
 
-## 3rd step
+## 3 adım
 
-Congratulations, you have created a wallet based on the Enecuum blockchain
+Tebrikler, Enecuum blok zincirine dayalı bir cüzdan oluşturdunuz
 
 ![Enecuum wallet](../.gitbook/assets/image%20%281%29.png)
 
-You can see the block called "My Address".
+"Adresim" adlı bloğu görebilirsiniz.
 
-![Public key \(wallet address\)](../.gitbook/assets/image%20%283%29.png)
+![Genel anahtar \(c&#xFC;zdan adresi\)](../.gitbook/assets/image%20%283%29.png)
 
-Use your public key to transfer assets to your Enecuum wallet.
+Varlıkları Enecuum cüzdanınıza aktarmak için Özel anahtarınızı kullanın.
 
-If you click on "hidden guy" you will switched to Private Key - Secret Key.
+"Gizli adam" ı tıklarsanız, Özel Anahtar - Gizli Anahtar'a geçersiniz.
 
-![Hidden secret key](../.gitbook/assets/image%20%282%29.png)
+![gizli anahtar](../.gitbook/assets/image%20%282%29.png)
 
-If you want to copy it - click to the eye in the right part of the block
+Kopyalamak istiyorsanız - bloğun sağ tarafındaki göze tıklayın
 
-![Secret key is shown](../.gitbook/assets/image%20%284%29.png)
+![Gizli anahtar g&#xF6;steriliyor](../.gitbook/assets/image%20%284%29.png)
 
-Now you can copy it to the safe place
+Şimdi onu güvenli bir yere kopyalayabilirsiniz
 
-## 4th step
+## 4 adım
 
-**Save your Secret Key in the safety place. If you lose it, no one will be able to restore access to your wallet**
+**Gizli Anahtarınızı güvenli yerde saklayın. Kaybederseniz, hiç kimse cüzdanınıza erişimi geri yükleyemez**
 
-Read more about Enecuum wallet [here](https://guides.enecuum.com/).
+Enecuum cüzdanı hakkında daha fazla bilgi için buraya bakın: [https://guides.enecuum.com/](https://guides.enecuum.com/
+)  
+[  
+](https://guides.enecuum.com/
+)
 

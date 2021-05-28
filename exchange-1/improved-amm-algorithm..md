@@ -1,6 +1,8 @@
-# Improved AMM algorithm
+# Geliştirilmiş AMM algoritması
 
-After researching existing DEX trade maths we find DODO DEX [Proactive Market Making Algorithm](https://dodoex.github.io/docs/docs/pmm/) most innovative as it makes the price in the liquidity pool more stable imitating traditional spot exchange orders distribution instead of Uniswap's and its forks \(SUSHI, PanCake and others\) linear distribution.
+Mevcut DEX ticaret matematiğini araştırdıktan sonra, DODO DEX [Proaktif Piyasa Yapma Algoritmasını](https://dodoex.github.io/docs/docs/pmm/) en yenilikçi buluyoruz çünkü likidite havuzundaki fiyatı, Uniswap ve çatalları \(SUSHI, PanCake ve diğerleri\) doğrusal dağıtım yerine geleneksel spot değişim emir dağıtımını taklit ederek daha istikrarlı hale getiriyor.
 
-
+[  
+](https://dodoex.github.io/docs/docs/pmm/
+)
 

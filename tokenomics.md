@@ -1,101 +1,101 @@
 # Tokenomics
 
-## ENX Token Distribution <a id="aaa7"></a>
+## ENX Token Dağıtımı <a id="aaa7"></a>
 
-According to ENX’s token model, **$ENX** total supply will be 21M with one-time minting and will have the following distribution:
+ENX’in token modeline göre, **$ ENX** toplam arz, tek seferlik basımla 21 milyon olacak ve aşağıdaki dağıtıma sahip olacak:
 
-#### Community Round for $ENQ holders
+**$ ENQ sahipleri için Topluluk Turu**
 
-* 5% of total supply \(1,050,000 $ENX\) will be offered to Enecuum community, with price **$ 0.21 per one $ENX**. The initial unlocking will be 10% of the purchase amount and 7.5% monthly for the next 12 months. To join the community sale round you should send $ENQ to address which will be provided.
-* 100% of all $ENQ tokens collected during the sale will be locked for three months and then will be added to **ENEX.SPACE** to the pair with **$ENX** \(ENQ/ENX liquidity pool\) with lockup period nine months.
-* Maximum amount per one $ENQ address is 25,000 $ENQ.
-* Exchange rate for this round will be **1 ENX = 2.1 ENQ**, based on **1 ENQ = $0.1**.
-* Exchange amount of **1,050,000 $ENX will be offered for 2,205,000 $ENQ**.
-* Oversubscribed $ENQ would be returned to ENQ holders proportionally.
+* Toplam arzın% 5'i \(1.050.000 $ ENX\) Enecuum topluluğuna her bir **ENX $** için **0.21 $** fiyatla sunulacak. İlk kilit açma, satın alma tutarının% 10'u ve önümüzdeki 12 ay boyunca aylık% 7,5 olacaktır. Topluluk satışı turuna katılmak için, sağlanacak olan adrese $ ENQ göndermelisiniz.
+* Satış sırasında toplanan tüm $ ENQ jetonlarının% 100'ü üç ay boyunca kilitlenecek ve ardından dokuz aylık kilitlenme dönemi ile **$ ENX** \(ENQ / ENX likidite havuzu\) ile çifte **ENEX.SPACE**'e eklenecektir.
+* Bir $ ENQ adresi başına maksimum tutar 25.000 $ ENQ'dur.
+* Bu tur için döviz kuru **1 ENX = 2,1 ENQ** olacaktır, **1 ENQ = 0,1 $ 'a göre.**
+* **1.050.000 $ ENX** değişim tutarı **2.205.000 $ ENQ** için teklif edilecektir.
+* Abone olunan $ ENQ orantılı olarak ENQ sahiplerine iade edilir.
 
-**Private Round**
+**Özel Tur**
 
-* 21% of total supply \(4,410,000 $ENX\) will be offered to strategic partners with price **$0.33 per one $ENX**. 
-* The initial unlocking will represent 15% of the purchase amount and 7.08% monthly for next 12 month. 
-* Private round is to be held in ETH/USDT. Minimum lot is 30k USDT equivalent. Maximum is 150k USDT.
+* Toplam arzın% 21'i \(4,410,000 $ ENX\), bir **ENX $ için 0,33 $** fiyatla stratejik ortaklara sunulacak.
+* İlk kilit açma, satın alma tutarının% 15'ini ve önümüzdeki 12 ay için aylık% 7.08'ini temsil edecek.
+* Özel tur ETH / USDT'de yapılacak. Minimum lot 30.000 USDT eşdeğeri. Maksimum 150.000 USDT'dir.
 
-#### Public Round
+**Halka Açık Tur**
 
-* 2% of total supply \(420,000 $ENX\) will be offered to public with price **$0.55 per one $ENX**
-* Public round is to be held in ETH/USDT.
+* Toplam arzın% 2'si \(420,000 $ ENX\), bir **ENX $ başına 0,55 $** fiyatla halka arz edilecek
+* Halka açık tur ETH / USDT'de yapılacak.
 
-#### DEX pools
+**DEX havuzları**
 
-* 5% of total supply \(1,050,000 $ENX\)  and the corresponding amount of ETH at the public round price will be split 50/50 and locked in the ENX/ETH pool on Uniswap and eENX/eETH on **ENEX.SPACE**
-* Lock term is one year.
+* Toplam arzın% 5'i \(1.050.000 $ ENX\) ve halka açık tur fiyatına karşılık gelen ETH miktarı 50 / 50'ye bölünecek ve Uniswap'ta ENX / ETH ve **ENEX**'te eENX / eETH havuzunda kilitlenecek.
+* Kilit süresi bir yıldır.
 
-#### Marketing
+**Pazarlama**
 
-* 6% of total supply \(1,260,000 $ENX\) will be locked up for 9 month. 
-* Unlocking will start after 9 month and represent 4.17% monthly for next 24 month. 
+* Toplam arzın% 6'sı \(1.260.000 $ ENX\) 9 ay süreyle kilitli kalacak.
+* Kilit açma 9 ay sonra başlayacak ve önümüzdeki 24 ay için aylık% 4,17'yi temsil edecek. 
 
-#### Future Fundraising
+**Gelecekteki Kaynak Yaratma**
 
-* 11% of total supply \(2,310,000 $ENX\) will be locked up for one year. 
-* Unlocking will start after one year and represent 8.33% monthly for next 12 month.
+* Toplam arzın% 11'i \(2.310.000 $ ENX\) bir yıllığına kilitlenecek.
+* Kilit açma işlemi bir yıl sonra başlayacak ve önümüzdeki 12 ay için aylık% 8.33'ü temsil edecek.
 
-#### Commander ENEX Treasury Fund
+#### Commander ENEX Hazine Fonu
 
-* 21% of total supply - \(4,410,000 $ENX\) will be locked up for 3 month. 
-* Unlocking and staking $ENX for [**Space Harvest Farm**](yield-farming-space-harvest-farm.md)  will start after 3 months and represent 1.67% monthly for next 60 month.
+* Toplam arzın% 21'i - \(4.410.000 $ ENX\) 3 aylığına kilitli kalacak.
+* [Space Harvest Farm](yield-farming-space-harvest-farm.md) için $ ENX'in kilidini açma ve stake etme 3 ay sonra başlayacak ve önümüzdeki 60 ay boyunca aylık% 1.67'yi temsil edecek.
 
-#### Advisers & strategic partners
+**Danışmanlar ve stratejik ortaklar**
 
-* 8% of total supply \(1,680,000 $ENX\) will be locked up for 6 month. 
-* Unlocking will start after 6 months and represent 4.17% monthly for next 24 month.
+* Toplam arzın% 8'i \(1.680.000 $ ENX\) 6 aylığına kilitli kalacak. 
+* Kilit açma 6 ay sonra başlayacak ve önümüzdeki 24 ay için aylık% 4,17'yi temsil edecek.
 
-#### Team 
+**Takım**
 
-* 21% of total supply  \(4,410,000 $ENX\) will be locked up for 18 month. 
-* Unlocking will start after 18 months and represent 4.17% monthly for next 24 month.
+* Toplam arzın% 21'i \(4.410.000 $ ENX\) 18 aylığına kilitli kalacak.
+* Kilit açma 18 ay sonra başlayacak ve önümüzdeki 24 ay için aylık% 4,17'yi temsil edecek.
 
-## Circulating Supply after TGE
+## TGE Sonrası Dolaşan Arz
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left"></th>
       <th style="text-align:left">
-        <p>Price</p>
-        <p>per ENX</p>
+        <p>Fiyat</p>
+        <p>ENX ba&#x15F;&#x131;na</p>
       </th>
       <th style="text-align:right">
-        <p>Unlocked</p>
-        <p>ENX at day 0</p>
+        <p>Kilitli de&#x11F;il</p>
+        <p>0. g&#xFC;nde ENX</p>
       </th>
       <th style="text-align:center">TS%</th>
-      <th style="text-align:right">USDT Value</th>
+      <th style="text-align:right">USDT De&#x11F;eri</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Community Round for $ENQ holders</td>
+      <td style="text-align:left">$ ENQ sahipleri i&#xE7;in Topluluk Turu</td>
       <td style="text-align:left">$0.21</td>
       <td style="text-align:right">105,000.00</td>
       <td style="text-align:center">0.5%</td>
       <td style="text-align:right"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Private Round</td>
+      <td style="text-align:left">&#xD6;zel Tur</td>
       <td style="text-align:left">$0.33</td>
       <td style="text-align:right">661,500.00</td>
       <td style="text-align:center">3.15%</td>
       <td style="text-align:right"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Public Round</td>
+      <td style="text-align:left">Halka A&#xE7;&#x131;k Tur</td>
       <td style="text-align:left">$0.55</td>
       <td style="text-align:right">420,000.00</td>
       <td style="text-align:center">2.00%</td>
       <td style="text-align:right"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Total from 3 rounds</b>
+      <td style="text-align:left"><b>3 turdan itibaren toplam</b>
       </td>
       <td style="text-align:left"><b> </b>
       </td>
@@ -106,7 +106,7 @@ According to ENX’s token model, **$ENX** total supply will be 21M with one-tim
       <td style="text-align:right">&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>DEX pools liquidity from Commander</b>
+      <td style="text-align:left"><b>DEX, Commander&apos;dan likidite topluyor</b>
       </td>
       <td style="text-align:left"><b>$0.55</b>
       </td>
@@ -120,45 +120,45 @@ According to ENX’s token model, **$ENX** total supply will be 21M with one-tim
   </tbody>
 </table>
 
-## **ENX Unlock Schedule** <a id="68b3"></a>
+## **ENX** Kilit Açma Programı <a id="68b3"></a>
 
-**Here is an unlocking schedule for each month over 63 months.**
+**İşte 63 ay boyunca her ay için bir kilit açma programı.**
 
 ![](.gitbook/assets/circulating-supply.png)
 
-## **Inflation Rate by Month**
+## Aya Göre Enflasyon Oranı
 
-**Here is an inflation vs new supply diagram over 63 months.**
+**İşte 63 aylık bir enflasyona karşı yeni arz diyagramı.**
 
 ![](.gitbook/assets/inflation-rate-kh-_circulating-supply_.png)
 
-## **Allocation Table** 
+## Tahsis Tablosu 
 
-|  | Allocation | $ENX |
+|  | Tahsis | $ENX |
 | :--- | ---: | ---: |
-| Community Round for ENQ holders | 5.00% | 1,050,000.00 $ENX |
-| Private round  | 21.00% | 4,410,000.00 $ENX |
-| Public round | 2.00% | 420,000.00  $ENX |
-| DEX pools | 5.00% | 1,050,000.00 $ENX |
-| Marketing | 6.00% | 1,260,000.00  $ENX |
-| Future Fundraising for liquidity pools | 11.00% | 2,310,000.00 $ENX |
-| Commander ENEX Treasury Fund | 21.00% | 4,410,000.00 $ENX |
-| Advisers & strategic partners | 8.00% | 1,680,000.00 $ENX |
-| Team | 21.00% | 4,410,000.00 $ENX |
-| **Total** | **100.00%** | **21,000,000.00 $ENX** |
+| ENQ sahipleri için Topluluk Turu | 5.00% | 1,050,000.00 $ENX |
+| Özel tur | 21.00% | 4,410,000.00 $ENX |
+| Halka açık tur | 2.00% | 420,000.00  $ENX |
+| DEX havuzları | 5.00% | 1,050,000.00 $ENX |
+| Pazarlama | 6.00% | 1,260,000.00  $ENX |
+| Likidite havuzları için Gelecekteki Kaynak Yaratma | 11.00% | 2,310,000.00 $ENX |
+| Commander ENEX Hazine Fonu | 21.00% | 4,410,000.00 $ENX |
+| Danışmanlar ve stratejik ortaklar | 8.00% | 1,680,000.00 $ENX |
+| Takım | 21.00% | 4,410,000.00 $ENX |
+| **Toplam** | **100.00%** | **21,000,000.00 $ENX** |
 
-## Appendix 1.
+## Ek 1.
 
-### Community round brief explanation:
+### Topluluk turu kısa açıklaması:
 
-* Allocation:  **1,050,000 $ENX**
-* Exchange rate:  **1 ENX = 2.1 ENQ**
-* Opening round:  **16 March, 5 pm UTC**
-* Round close: **19 March, 9 pm UTC**
-* Maximum ticket: **25,000.00 ENQ for one wallet**
-* ENX distribution: **proportional between all participant**
-* Returning of oversubscribed ENQ: **20 March 2021**
-* ENX lockup period: **10% at 0 day, 7.5% monthly for the next 12 months.**
+* Tahsis:  **1,050,000 $ENX**
+* Döviz kuru:  **1 ENX = 2.1 ENQ**
+* Açılış turu:  **16 March, 5 pm UTC**
+* Tur kapanışı: **19 March, 9 pm UTC**
+* Maksimum bilet: **25,000.00 ENQ for one wallet**
+* ENX dağılımı: **tüm katılımcılar arasında orantılı**
+* Abone olunan ENQ'nun iadesi: **20 Mart 2021**
+* ENX kilitlenme süresi: **0 günde% 10, sonraki 12 ay için aylık% 7,5.**
 
 
 

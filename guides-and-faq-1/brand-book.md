@@ -1,8 +1,8 @@
 ---
-description: CORPORATE IDENTITY GUIDE
+description: KURUMSAL KİMLİK KILAVUZU
 ---
 
-# Brand Book
+# Marka Kitapçığı
 
-You can find logos and a .pdf with style guidelines here: [https://enex.space/home\_ru/style-guides/](https://enex.space/home_ru/style-guides/)
+Logoları ve .pdf dosyasını stil kurallarıyla birlikte burada bulabilirsiniz: [https://enex.space/home\_ru/style-guides/](https://enex.space/home_ru/style-guides/)
 

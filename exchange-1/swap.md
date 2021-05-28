@@ -1,12 +1,12 @@
-# Swap
+# Takas
 
-**Automated liquidity pools provide a simple way to exchange digital assets via a swap operation**. 
+**Otomatik likidite havuzları, bir takas işlemi aracılığıyla dijital varlıkları takas etmenin basit bir yolunu sağlar.**
 
-To make trades possible the liquidity should be added to the pools by Liquidity Provider who receive LP \(Liquidity Provider\) tokens in exchange. LP tokens grant a share of the pool and also can be staked to earn **$ENX** tokens in the[ Space Harvest Farm](../yield-farming-space-harvest-farm.md) after ENEX v1.1 will be launched.
+İşlemleri mümkün kılmak için, likidite, karşılığında LP \(Likidite Sağlayıcı\) jetonları alan Likidite Sağlayıcı tarafından havuzlara eklenmelidir. LP tokenleri havuzdan bir pay verir ve ENEX v1.1 piyasaya sürüldükten sonra [Space Harvest Farm'](../yield-farming-space-harvest-farm.md)da **$ ENX** token kazanmak için stake edilebilir.
 
-\*\*\*\*[**ENEX.SPACE**](https://enex.space/)  ****charges a fee  every time when users provide liquidity and  trade**.**
+[**ENEX.SPACE**](https://enex.space/), kullanıcılar likidite ve ticaret sağladığında her seferinde bir ücret alır.
 
-**Total fees** are **0.35%**
+**Toplam ücretler% 0,35**
 
 {% page-ref page="../treasury-fund/commission-structure.md" %}
 

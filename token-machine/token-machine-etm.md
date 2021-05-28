@@ -1,56 +1,56 @@
-# Token machine \(ETM\)
+# Token makinesi \(ETM\)
 
-### **What is ETM?**
+### ETM nedir?
 
-ETM is Enecuum Token Machine - user-friendly and fast interface for creating tokens on top of Enecuum Network.
+ETM, Enecuum Token Makinesi - Enecuum Network'ün üstünde token oluşturmak için kullanıcı dostu ve hızlı arayüz.
 
-**Non-reissuable tokens**
+**Yeniden ihraç edilemeyen belirteçler**
 
-Non-reissuable - tokens with a fixed supply. After the token release, extra token coins can not be emitted.
+Yeniden ihraç edilemez - sabit tedarik içeren tokenlar. Token piyasaya sürüldükten sonra ekstra jeton basılamaz.
 
-**Reissuble tokens**
+**Yeniden çıkarılabilir jetonlar**
 
-Reissuable - tokens with a flexible supply. After the token release, its supply can be changed by issuing or burning of coins.
+Yeniden çıkarılabilir - esnek bir tedarik sağlayan tokenlar. Token piyasaya sürüldükten sonra, arzı bozuk para basılması veya yakılmasıyla değiştirilebilir.
 
-**Mineable tokens**
+**Maden çıkarılabilir jetonlar**
 
-Mineable - tokens that can be mined. Some volume is selected for instant release \(premine\), and the rest is mined by users by PoA algorithms using Android mobile phones.
+Maden çıkarılabilir - çıkarılabilen jetonlar. Anında yayın \(premine\) için bir miktar birim seçilir ve geri kalanı, Android cep telefonlarını kullanan PoA algoritmaları tarafından kullanıcılar tarafından çıkarılır.
 
-**More about PoA mining:**
+**PoA madenciliği hakkında daha fazla bilgi:**
 
 {% embed url="https://enqblockchain.medium.com/poa-mining-slots-announcement-46c038302373" %}
 
 
 
-**Read more about mining slots in Enecuum official guides:**
+**Enecuum resmi kılavuzlarında madencilik slotları hakkında daha fazla bilgi edinin:**
 
 [https://guides.enecuum.com/enq/token-issue.html\#mining-slots](https://guides.enecuum.com/enq/token-issue.html#mining-slots)
 
-**Use Token calculator before you will issue mineable tokens:**
+**Mayınlı jetonlar vermeden önce jeton hesaplayıcısını kullanın:**
 
 [https://pulse.enecuum.com/\#!/token-roi](https://pulse.enecuum.com/#!/token-roi)
 
 
 
-### Fee principals
+### Ücretler
 
-With each transaction, including custom tokens, users need to pay the transaction fee. When sending $ENQ, the user pays 0.1 $ENQ fee to the Enecuum network. When sending custom tokens, the user pays the fee to the token creator. The fee amount is set by that token creator. With each custom token transaction, the token creator pays 0.1 $ENQ fee to the Enecuum network.
+Özel belirteçler dahil her işlemde, kullanıcıların işlem ücretini ödemesi gerekir. $ ENQ gönderirken, kullanıcı Enecuum ağına 0,1 $ ENQ ücreti öder. Kullanıcı, özel jeton gönderirken, jeton oluşturucuya ücreti öder. Ücret tutarı, bu jeton oluşturucu tarafından belirlenir. Her özel jeton işleminde, jeton oluşturucu Enecuum ağına 0,1 $ ENQ ücreti öder.
 
-The token creator also chooses the fee type. The fee can be either fixed or percentage. The fixed fee stays the same for any transaction. The percentage fee depends on the transaction amount. If the percentage fee is selected, the creator can also choose the minimum fee. Then, the user will pay the minimum fee if the transaction percent fee is too low.
+Jeton oluşturan kişi de ücret türünü seçer. Ücret sabit veya yüzde olabilir. Sabit ücret herhangi bir işlem için aynı kalır. Yüzde ücreti işlem tutarına bağlıdır. Yüzde ücret seçilirse, içerik oluşturucu minimum ücreti de seçebilir. Ardından, işlem yüzde ücreti çok düşükse kullanıcı minimum ücreti ödeyecektir.
 
-**Here's an example of how it works:**
+**İşte nasıl çalıştığına dair bir örnek:**
 
-1. Carol creates her custom token $CRL. She sets her transaction fee type to fixed. She also sets the fee amount to 1 $CRL. Carol pays the fee in $ENQ to the Enecuum Genesis address for the token creation.
-2. Alice sends 10 $CRL to Bob. She pays 1 $CRL fee to Carol. Bob receives 10 $CRL.
-3. Carol pays 0.1 $ENQ fee to the Enecuum Genesis address for the transaction that Alice sent.
+1. Carol kendi özel jetonunu $ CRL oluşturur. İşlem ücreti türünü sabit olarak belirler. Ayrıca ücret tutarını 1 $ CRL olarak belirler. Carol, token oluşturulması için ücreti ENQ cinsinden Enecuum Genesis adresine öder.
+2. Alice, Bob'a 10 $ CRL gönderir. Carol'a 1 $ CRL ücreti öder. Bob 10 $ CRL alıyor.
+3. Carol, Alice'in gönderdiği işlem için Enecuum Genesis adresine 0,1 $ ENQ ücreti öder.
 
 ![](../.gitbook/assets/fee-principle.58594b6d.svg)
 
 {% embed url="https://guides.enecuum.com/enq/token-issue.html\#fee-principles" %}
 
-### Useful links:
+### Kullanışlı bağlantılar:
 
-**Enecuum blockchain explorer - tokens:**
+**Enecuum blockchain gezgini - belirteçler:**
 
 {% embed url="https://pulse.enecuum.com/\#!/tokens" %}
 

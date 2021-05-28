@@ -1,31 +1,31 @@
-# Treasury Fund
+# Hazine Fonu
 
-### **How Treasury Fund arise?** 
+### Hazine Fonu nasıl ortaya çıkıyor? ****
 
-Treasury Fund consists of two main parts: 
+Hazine Fonu iki ana bölümden oluşmaktadır: 
 
-* **LP tokens** 
+* **LP belirteçleri** 
 * **$ENX**
 
-LP tokens at the rate of **0,05%** added to TF every time when users [make a trade](commission-structure.md) on [**ENEX.SPACE**](https://enex.space/) ****
+Kullanıcılar [**ENEX**](https://enex.space/) üzerinde her işlem yaptığında TF'ye% 0,05 oranında LP jetonları eklenir. ****
 
-**$ENX** will be added to TF at the time it will be[ issued](../tokenomics.md) based on the [tokenomics ](../tokenomics.md)rules.
+**$ENX**, [tokenomics](../tokenomics.md) kurallarına göre düzenlendiği anda TF'ye eklenecektir.
 
-### **How Treasury Fund is regulated?**
+### Hazine Fonu nasıl düzenlenir?
 
-**LP Tokens.**
+**LP Jetonları.**
 
-LP tokens proposed to be converted to **$ENX** and rewarded to **$ENX** stakers at [**Space Station**](../space-station-pool.md) daily based. 
+LP tokenlerinin **ENX $** 'a dönüştürülmesi ve günlük olarak [space staion](../space-station-pool.md) da **$ ENX** stakers'a ödüllendirilmesi önerildi. 
 
-This motivation program is executed automatically with **one required condition** - the pair of **$ENX** and this relative LP token have to be staked to [**Space Harvest Farm.**](../yield-farming-space-harvest-farm.md)\*\*\*\*
+Bu motivasyon programı, gerekli bir koşulla otomatik olarak yürütülür - **$ ENX** çifti ve bu ilgili LP jetonunun [Space Harvest Farm](../yield-farming-space-harvest-farm.md)'a yatırılması gerekir.
 
-If this required condition not performed - those LP tokens **will be burned** by **Commander ENEX** daily based, which will guarantee availability of liquidity in this trading pair in equivalent of burned.
+Bu gerekli koşul yerine getirilmezse - bu LP jetonları, **commander ENEX** tarafından günlük olarak yakılacak ve bu işlem çiftinde yakılana eşdeğer likidite kullanılabilirliğini garanti edecektir.
 
 **$ENX.** 
 
-**$ENX** tokens propose to be reward as motivation to provide a liquidity to pools and stake LP/ENX pair at [**Space Harvest Farm.**](../yield-farming-space-harvest-farm.md)\*\*\*\*
+**$ENX** tokenleri, [Space Harvest Farm](../yield-farming-space-harvest-farm.md)'da havuzlara likidite sağlamak ve LP / ENX çiftini hisse almak için motivasyon olarak ödüllendirmeyi teklif ediyor.
 
-The size and timing of rewards incentive programs will be regulated by governance of **$ENX** holders after **Commander ENEX** will transfer his operation of **$ENX** Treasury Fund to community.
+Ödül teşvik programlarının boyutu ve zamanlaması, **commander ENEX**'in **$ ENX** Hazine Fonu operasyonunu topluluğa aktarmasından sonra **$ ENX** sahiplerinin yönetişimi tarafından düzenlenecektir.
 
 
 

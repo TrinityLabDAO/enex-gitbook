@@ -1,42 +1,42 @@
 # Liquidity Pools
 
-\*\*\*\*[**ENEX.SPACE**](https://enex.space/) allows you to be a liquidity provider by adding your tokens to liquidity pools. Each pool represents one traiding pair and can be described by two token ids and the amount of tokens in the pool.
+[**ENEX.SPACE**](https://enex.space/), tokenlerinizi likidite havuzlarına ekleyerek bir likidite sağlayıcısı olmanızı sağlar. Her havuz bir takip eden çifti temsil eder ve iki jeton kimliği ve havuzdaki jeton miktarı ile tanımlanabilir.
 
-When you add your token to a liquidity pool, you will receive LP tokens \(liquidity provider tokens\).
+Jetonunuzu bir likidite havuzuna eklediğinizde, LP jetonları \(likidite sağlayıcı jetonları\) alacaksınız.
 
-For example, if you deposit **$ENX** and $ENQ into a liquidity pool, you will receive ENX-ENQ LP tokens.
+Örneğin, bir likidite havuzuna **$ ENX** ve $ ENQ yatırırsanız, ENX-ENQ LP jetonları alacaksınız.
 
-The number of LP tokens you own shows your share of the ENX-ENQ liquidity pool. You can always take your funds back by sending your LP tokens in exchange on **$ENX** and $ENQ. But proportion of $ENX and $ENQ may vary based on the price change in the ENX-ENQ pool. It is the risk Liquidity Provider takes in exchange of the pool fees.
+Sahip olduğunuz LP jetonlarının sayısı, ENX-ENQ likidite havuzundaki payınızı gösterir. LP jetonlarınızı $ ENX ve $ ENQ karşılığında göndererek paranızı her zaman geri alabilirsiniz. Ancak **$ ENX** ve $ ENQ oranı, ENX-ENQ havuzundaki fiyat değişikliğine bağlı olarak değişebilir. Likidite Sağlayıcının havuz ücretleri karşılığında aldığı risktir.
 
-**Add liquidity**
+**Likidite ekleyin**
 
-You provide tokens to the liquidity pool in a current pool's ratio. As an example, given 1:10 ENX-ENQ ratio in the pool you should add simultaniusly **20 $ENX and 200 $ENQ** liquidity \($$\frac{20}{200} = \frac{1}{10}$$ \).
+Mevcut bir havuzun oranında likidite havuzuna jeton sağlarsınız. Örnek olarak, havuzda 1:10 ENX-ENQ oranı verildiğinde, aynı anda **20 $ ENX ve 200 $ ENQ** likidite eklemelisiniz  \($$\frac{20}{200} = \frac{1}{10}$$ \).
 
-_**To get more details go to:**_
+_**Daha fazla ayrıntı almak için şu adrese gidin:**_
 
 {% page-ref page="../core-math/appendix.md" %}
 
-To make liquidity provider role even more appealing you can put your LP tokens to work for you at [**Space Harvest Farms**](../yield-farming-space-harvest-farm.md), while still earning trading fee reward, after ENEX V. 1.1 will be launched.   
+Likidite sağlayıcı rolünü daha da çekici hale getirmek için, LP jetonlarınızı sizin için [**Space Harvest Farms'**](../yield-farming-space-harvest-farm.md)ta çalıştırabilirken, ENEX V 1.1 piyasaya sürüldükten sonra işlem ücreti ödülü kazanmaya devam edebilirsiniz.
 
-Liquidity providers can also create a pair LP to $ENX and then stake $ENX at [**Space Station** ](../space-station-pool.md) and get rewards in $ENX from [**each trade**](../treasury-fund/treasury-fund.md) from pair of LP tokens.
+Likidite sağlayıcıları ayrıca ENX $ 'a bir çift LP oluşturabilir ve ardından [**Space Station**](../space-station-pool.md)'da $ ENX yatırabilir ve LP token çiftlerinden her işlemden $ ENX cinsinden ödüller alabilir.
 
-**Liquidity providers fee**
+**Likidite sağlayıcı ücreti**
 
-**0.30%** - from each trade will be returned to liquidity pools in the form of a fee reward for liquidity providers.
+**% 0.30** - her işlemden, likidite sağlayıcıları için bir ücret ödülü şeklinde likidite havuzlarına iade edilecektir.
 
-**Here you can find comparing a fees depending on trades at existing DEX's to** **ENEX.SPACE**
+**Burada, mevcut DEX'lerdeki işlemlere bağlı ücretleri ENEX ile karşılaştırmayı bulabilirsiniz.**
 
 {% page-ref page="../treasury-fund/commission-structure.md" %}
 
 
 
-**Create a pool**
+**Bir havuz oluştur**
 
-If the pool you wish to provide liquidity to does not exist, you can create it by yourself with the same procedure as adding liquidity. As the first liquidity provider, you set the initial exchange ratio \(price\). This often quickly corrects itself through arbitrage and by more liquidity providers adding to the pool.
+Likidite sağlamak istediğiniz havuz yoksa likidite ekleme prosedürünün aynısı ile kendiniz oluşturabilirsiniz. İlk likidite sağlayıcısı olarak, ilk değişim oranını \(fiyatı\) belirlersiniz. Bu genellikle arbitraj yoluyla ve havuza eklenen daha fazla likidite sağlayıcısı ile kendini hızla düzeltir.
 
 **A2A**
 
-At [**ENEX.SPACE**](https://enex.space/) you can create a liquidity pool with any token, issued over Enecuum Network and any tokens — any to any \(A2A\).
+[**ENEX.SPACE**](https://enex.space/)'te, Enecuum Network üzerinden verilen herhangi bir token ve herhangi bir token - herhangi biri \(A2A\) ile bir likidite havuzu oluşturabilirsiniz.
 
 
 

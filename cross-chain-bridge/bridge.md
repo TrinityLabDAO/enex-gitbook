@@ -1,16 +1,16 @@
-# Bridge
+# Köprü
 
-**Tabula bridge.**
+**Tabula köprüsü.**
 
-Tabula cross chain bridge will connect Ethereum, BSC and Enecuum first phase and Polkadot, Fusion and others blockchains later. That will increase liquidity for DEX traders with extremely low fees and decentralized architecture of [**ENEX.SPACE**](https://enex.space/) by design.
+Tabula çapraz zincir köprüsü ilk aşamada Ethereum, BSC ve Enecuum'u ve daha sonra Polkadot, Fusion ve diğer blok zincirlerini birbirine bağlayacak. Bu, son derece düşük ücretler ve tasarım gereği [ENEX.SPACE](https://enex.space/)'in merkezi olmayan mimarisi ile DEX tüccarları için likiditeyi artıracaktır.
 
-**Ethereum network**
+**Ethereum ağı**
 
-Bridge yours any assets from Ethereum to Enecuum and back any time. Wrapped assets will be added to your Eneccum wallet backed by Ethereum assets.
+Ethereum'dan Enecuum'a kadar tüm varlıkları köprüleyin ve istediğiniz zaman geri dönün. Sarılmış varlıklar, Ethereum varlıkları tarafından desteklenen Eneccum cüzdanınıza eklenecektir.
 
-**Binance Smart Chain**
+**Binance Akıllı Zincir**
 
-Bridge your any assets from BSC to Enecuum and back any time.Wrapped assets will be added to your Eneccum wallet backed by BSC assets.
+Varlıklarınızı BSC'den Enecuum'a köprüleyin ve istediğiniz zaman geri alın. Sarılmış varlıklar, BSC varlıkları tarafından desteklenen Eneccum cüzdanınıza eklenecektir.
 
-**More blockchains will be added later.**
+**Daha sonra daha fazla blok zinciri eklenecektir.**
 

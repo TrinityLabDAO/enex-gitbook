@@ -1,12 +1,12 @@
 # Space Station
 
-When users make trades on the [**ENEX.SPACE**](https://enex.space/)  a **0.35%** fee is[ charged](treasury-fund/commission-structure.md).
+Kullanıcılar [ENEX.SPACE](https://enex.space/)'te işlem yaptıklarında**% 0,35** ücret alınır.
 
-**0.05%** of this fee is added to the **Space Station** in the form of LP tokens for the relative pool.
+Bu ücretin% 0,05'i, ilgili havuz için LP jetonları şeklinde **Space Station** eklenir.
 
-When the rewards contract is called \(minimum once per day\) all the LP tokens are sold for **$ENX** \(on [**ENEX.SPACE**](https://enex.space/)\). The newly purchased **$ENX** is then divided up proportionally between the **$ENX** stakers in the **Space Station**.
+Ödül sözleşmesi çağrıldığında \(günde en az bir kez\) tüm LP jetonları **ENX $** \([ENEX.SPACE](https://enex.space/)'de\) karşılığında satılır. Yeni satın alınan **$ ENX**, **Space Station $ ENX** stakerları arasında orantılı olarak paylaştırılır.
 
-Stake your **$ENX** to get **0,05%** fees from each trades on [**ENEX.SPACE**](https://enex.space/)\*\*\*\*
+[ENEX](https://enex.space/)'teki her işlemden**% 0,05** ücret almak için **$ ENX**'inizi yatırın.
 
 
 

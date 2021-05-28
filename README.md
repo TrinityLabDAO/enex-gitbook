@@ -1,52 +1,52 @@
 ---
-description: A New DeFi platform Connecting Multiple Blockchains
+description: Birden Fazla Blok Zinciri Bağlayan Yeni Bir AMM DEX
 ---
 
-# Welcome to ENEX.SPACE
+# ENEX.SPACE’e hoş geldiniz
 
-## Overview
+## Genel Bakış
 
-**ENEX** is the first DeFi platform powered by [**Enecuum Network.**](https://enecuum.com/)\*\*\*\*
+**ENEX,** [**Enecuum Network**](https://enecuum.com/) ****tarafından desteklenen ilk geliştirilmiş AMM DEX’tir.
 
-**Trade, earn, issue and raise at** [**ENEX.SPACE**](https://enex.space/) **with uncompromising security and extremely low fees.**
+**Ödünsüz güvenlik ve son derece düşük ücretlerle ENEX.SPACE’te ticaret yapın, kazanın, yayınlayın ve artırın.**
 
-**ENEX.SPACE** is DeFi platform built on Enecuum blockchain. **ENEX.SPACE** functioning based on $ENX token. $ENX represents overall liquidity in **ENEX.SPACE** and can be used to gain profit from trading operations. From the user’s point of view **ENEX.SPACE** consists of liquidity pools, treasury and Space Station.
+**ENEX.SPACE**, Enecuum blok zinciri üzerine inşa edilmiş **DeFi** platformudur. **ENEX.SPACE** işlevi $ ENX belirtecine göre çalışıyor.  $ ENX, ENEX.SPACE’deki genel likiditeyi temsil eder ve ticaret işlemlerinden kar elde etmek için kullanılabilir.  Kullanıcı açısından ENEX.SPACE likidite havuzları, hazine  ve Space Station oluşur.
 
-## Liquidity pools \(LP\)
+## Likidite havuzları \(LP\)
 
-Liquidity pool is trading pair with automatic market making \(AMM\) mechanism. Any user can create new liquidity pool of any two assets or add assets to any existing LP. As soon as liquidity pool created, corresponding liquidity pool token \(LP token\) is created automatically. When user adds liquidity \(both assets\) to LP, he receives corresponding LP token. Assets can be traded by adding one asset to pool and receiving another in exchange. Amount of received token is calculated by AMM formula automatically. After each trade **0.35%** of traded volume is collected as a fee. **0.30%** returns to pool as liquidity and **0.05%** moves to ENEX treasury in form of LP tokens. At any moment user can extract assets from liquidity pool by returning corresponding LP token to pool.
+Likidite havuzu, otomatik piyasa yapma \(AMM\) mekanizmasına sahip alım satım çiftidir.  Herhangi bir kullanıcı, herhangi iki varlığın yeni likidite havuzunu oluşturabilir veya mevcut herhangi bir LP’ye varlık ekleyebilir.  Likidite havuzu oluşturulur oluşturulmaz, ilgili likidite havuzu jetonu \(LP jetonu\) otomatik olarak oluşturulur.  Kullanıcı LP’ye likidite \(her iki varlık\) eklediğinde, karşılık gelen LP jetonunu alır.  Varlıklar, havuza bir varlık eklenerek ve karşılığında başka bir varlık alınarak takas edilebilir.  Alınan jeton miktarı, otomatik olarak AMM formülü ile hesaplanır.  Her işlemden sonra işlem hacminin  **%0,35’i** ücret olarak alınır.  % 0.30 likidite olarak havuza geri döner ve **%0.05 LP** tokenleri şeklinde ENEX hazinesine geçer.  Kullanıcı, herhangi bir anda ilgili LP jetonunu havuza iade ederek likidite havuzundan varlıkları çıkarabilir.
 
 ## Commander ENEX
 
-Commander is entity which has full access to treasury. [**Treasury**](treasury-fund/treasury-fund.md) is filled up with fees from pool trades in form of LP tokens\(see [**Liquidity pools**](exchange-1/liquidity-pools.md) section\). Some of these tokens are traded to ENX via liquidity pools. Commander ENEX occasionally sells these LP tokens for ENX. Tokens which cannot be traded to ENX are sent to burn address. All exchanged ENX are sent to[ **Space Station**](space-station-pool.md) for distribution.
+Commander, hazineye tam erişimi olan bir varlıktır.  [Hazine](https://app.gitbook.com/@enex/s/enex-space/~/drafts/-MZWwNX-NdDxSnLJDSbo/v/tuerkce-1.0.0/treasury-fund/treasury-fund), LP tokenleri şeklinde havuz alım satımlarından alınan ücretlerle doldurulur \(bkz. [Likidite havuzları](https://app.gitbook.com/@enex/s/enex-space/~/drafts/-MZWwNX-NdDxSnLJDSbo/v/tuerkce-1.0.0/exchange-1/liquidity-pools) bölümü\).  Bu token’lardan bazıları likidite havuzları aracılığıyla ENX ile işlem görüyor.  Commander ENEX, zaman zaman ENX için bu LP jetonlarını satmaktadır.  ENX ile takas edilemeyen jetonlar adres yazmak için gönderilir.  Değiştirilen tüm ENX’ler dağıtım [Space Station](https://app.gitbook.com/@enex/s/enex-space/~/drafts/-MZWwNX-NdDxSnLJDSbo/v/tuerkce-1.0.0/space-station-pool) gönderilir.
 
 ![](.gitbook/assets/photo_2021-03-17-16.01.33.jpeg)
 
-On picture above, there are three liquidity pools. Trading fees are gathered in treasury in form of LPs: 
+Yukarıdaki resimde üç likidite havuzu var.  Alım satım ücretleri hazinede LP şeklinde toplanır: 
 
-* Whiskey/Cola with LPwc liquidity token, 
-* Gin/Tonic with LPgt liquidity token,
-*  LPwc/ENX with LPwc\* liquidity token. 
+* LPwc likidite jetonlu whiskey / cola, 
+* LPgt likidite jetonlu gin / tonic,
+* LPwc \* likidite belirteci ile LPwc / ENX.
 
-In time, treasury is filled up with LPwc, LPgt and LPwc\*. 
+Hazine zamanla LPwc, LPgt ve LPwc \* ile dolar. 
 
-As long as there is traiding pair LPwc/ENX, LPwc tokens are traded to ENX, while LPgt and LPwc\* are burned.
+Takip eden LPwc / ENX çifti olduğu sürece, LPwc tokenleri ENX ile takas edilirken LPgt ve LPwc \* yakılır.
 
 ## Space Station
 
-Space station is a mechanism of distribution of certain amount of ENX over ENX shareholders. Any user can stake arbitrary amount of ENX. Occasionally, some ENX are moved to [**Space Station**](space-station-pool.md) \(see Commander ENEX section\) for distribution. Those ENXs are distributed proportionally among all shareholders.
+Space Station, belirli miktarda ENX’in ENX hissedarlarına dağıtım mekanizmasıdır.  Herhangi bir kullanıcı keyfi miktarda ENX yatırabilir.  Bazen, bazı ENX’ler dağıtım için Space Station taşınır \(commander ENEX bölümüne bakın\).  Bu ENX’ler tüm hissedarlar arasında orantılı olarak dağıtılır.
 
-For example, there are two shareholders A and B with shares of 10 and 40 ENX respectively. So, A share is 20% and B share is 80%. Let 60 ENX are sent to Station over some period of time. Then, shareholder A will be rewarded with 12 ENX \(20% of 60 ENX\), and shareholder B will be rewarded with 48 ENX \(80% of 60 ENX\).
+Örneğin, sırasıyla 10 ve 40 ENX hisselerine sahip iki A ve B hissedarı vardır.  Yani A payı% 20 ve B payı% 80’dir.  Bir süre boyunca İstasyona 60 ENX gönderilsin.  Ardından, A hissedarı 12 ENX \(60 ENX’in% 20’si\) ile ödüllendirilecek ve hissedar B 48 ENX \(60 ENX’in% 80’i\) ile ödüllendirilecektir.
 
-## Key points
+## Anahtar noktaları
 
-When you use traditional **Uniswap-like AMM DEXes**, you always make so called "approve" operation. If you confirm it by default, you allow all possible amount of approved token to be managed by the DEX smart contract. This is a serious security problem as it **breaks one of the main principles of a cryptocurrency** - the owner and only the owner of assets should have full control over the assets. Architecture of Enecuum Network without approval functionality opposite to Ethereum based blockchains **make your pools secure and leave you full control over the funds**. 
+Geleneksel Uniswap benzeri AMM DEX’leri kullandığınızda, her zaman sözde “onaylama” işlemini yaparsınız.  Varsayılan olarak onaylarsanız, tüm olası miktardaki onaylanmış jetonun DEX akıllı sözleşmesi tarafından yönetilmesine izin vermiş olursunuz.  Bu, bir kripto para biriminin ana ilkelerinden birini ihlal ettiği için ciddi bir güvenlik sorunudur – varlıkların sahibi ve yalnızca sahibi varlıklar üzerinde tam kontrole sahip olmalıdır.  Ethereum tabanlı blok zincirlerinin aksine onay işlevi olmayan Enecuum Network mimarisi, havuzlarınızı güvenli hale getirir ve fonlar üzerinde tam kontrol sahibi olmanızı sağlar.
 
-_**To get more details go to:**_
+_**Daha fazla ayrıntı almak için şu adrese gidin:**_
 
 {% page-ref page="core-math/appendix.md" %}
 
 {% hint style="info" %}
-**This Docs describe ENEX.SPACE V.1.0**
+**Bu Dokümanlar ENEX.SPACE V.1.0'ı açıklar**
 {% endhint %}
 

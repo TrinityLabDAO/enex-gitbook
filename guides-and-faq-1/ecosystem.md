@@ -1,22 +1,22 @@
 # Ecosystem
 
-### Enecuum Network
+### Enecuum Ağı
 
-Enecuum is the first blockchain in the world to unite millions of smartphones and other mobile devices into a single network. Here each smartphone can become a miner and make Enecuum stronger and more reliable. Simple, safe and fast using our app.
+Enecuum, milyonlarca akıllı telefonu ve diğer mobil cihazı tek bir ağda birleştiren dünyadaki ilk blok zinciridir. Burada her akıllı telefon bir madenci olabilir ve Enecuum'u daha güçlü ve daha güvenilir hale getirebilir. Uygulamamızı kullanarak basit, güvenli ve hızlı.
 
 {% embed url="https://enecuum.com/" %}
 
 
 
-### Tabula cross chain bridge
+### Tabula çapraz zincir köprüsü
 
-Cross chain bridge protocol for DEX liquidity providers.
+DEX likidite sağlayıcıları için çapraz zincir köprü protokolü
 
 {% embed url="https://tabula.world/" %}
 
 ### Trinity Lab
 
-Trinity Lab is a blockchain software researchers and engineering team. Our technology and products help developers to build next-generation networks and applications.
+Trinity Lab, bir blockchain yazılım araştırmacıları ve mühendislik ekibidir. Teknolojimiz ve ürünlerimiz, geliştiricilerin yeni nesil ağlar ve uygulamalar oluşturmalarına yardımcı olur.
 
 {% embed url="https://trinitylab.org/" %}
 

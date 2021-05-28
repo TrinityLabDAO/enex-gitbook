@@ -1,17 +1,17 @@
 # Table of contents
 
-* [Welcome to ENEX.SPACE](README.md)
+* [ENEX.SPACE’e hoş geldiniz](README.md)
 
 ## Exchange <a id="exchange-1"></a>
 
-* [Swap](exchange-1/swap.md)
+* [Takas](exchange-1/swap.md)
 * [Liquidity Pools](exchange-1/liquidity-pools.md)
-* [Improved AMM algorithm](exchange-1/improved-amm-algorithm..md)
+* [Geliştirilmiş AMM algoritması](exchange-1/improved-amm-algorithm..md)
 
 ## Treasury Fund
 
-* [Commission structure](treasury-fund/commission-structure.md)
-* [Treasury Fund](treasury-fund/treasury-fund.md)
+* [Komisyon yapısı](treasury-fund/commission-structure.md)
+* [Hazine Fonu](treasury-fund/treasury-fund.md)
 
 ## Space Farming
 
@@ -25,11 +25,11 @@
 
 ## Cross Chain Bridge
 
-* [Bridge](cross-chain-bridge/bridge.md)
+* [Köprü](cross-chain-bridge/bridge.md)
 
 ## Token Machine
 
-* [Token machine \(ETM\)](token-machine/token-machine-etm.md)
+* [Token makinesi \(ETM\)](token-machine/token-machine-etm.md)
 
 ## TOKENOMICS <a id="tokenomics-1"></a>
 
@@ -42,8 +42,8 @@
 * [Ecosystem](guides-and-faq-1/ecosystem.md)
 * [Development Guide](guides-and-faq-1/development-guide.md)
 * [Communities](guides-and-faq-1/communities.md)
-* [How to create an Enecuum wallet](guides-and-faq-1/how-to-create-an-enecuum-wallet.md)
-* [Brand Book](guides-and-faq-1/brand-book.md)
+* [Enecuum cüzdanı nasıl oluşturulur](guides-and-faq-1/how-to-create-an-enecuum-wallet.md)
+* [Marka Kitapçığı](guides-and-faq-1/brand-book.md)
 
 ## Core Math
 

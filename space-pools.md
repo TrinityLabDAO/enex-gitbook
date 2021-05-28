@@ -1,15 +1,15 @@
 # Space Drop
 
- 😇 **Space Drop is a place where Enecuum Network projects can be introduced to the community**
+ 😇 **Space Drop, Enecuum Network projelerinin topluluğa tanıtılabileceği bir yerdir**
 
-Space Drop allow [Enecuum Network](https://pulse.enecuum.com/) projects to achieve high user adoption by distributing a portion of their tokens to **$ENX** token holders.
+Space Drop, [Enecuum Network](https://pulse.enecuum.com/) projelerinin tokenlerinin bir kısmını **$ ENX** token sahiplerine dağıtarak yüksek kullanıcı benimsemesine olanak tanır.
 
-Space Drop are presented in two sections: Core and Community.
+Space Drop iki bölümde sunulmuştur: Çekirdek ve Topluluk.
 
-* Core will be initially selected by the **Commander ENEX**.
-* Community will be projects that pass a community vote on the governance portal.
+* Çekirdek başlangıçta Komutan **ENEX** tarafından seçilecektir.
+* Topluluk, yönetişim portalında topluluk oylamasından geçen projeler olacaktır.
 
-Note that any project are able to distribute tokens, but only projects that win a vote would be listed on the [**ENEX.SPACE**](https://enex.space/) interface as a default option.
+Herhangi bir projenin token dağıtabileceğini, ancak yalnızca oy kazanan projelerin [ENEX.SPACE](https://enex.space/) arayüzünde varsayılan seçenek olarak listeleneceğini unutmayın.
 
 ## 
 
