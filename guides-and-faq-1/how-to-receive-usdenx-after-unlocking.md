@@ -22,11 +22,8 @@ If you had taken a part in $ENX distribution - you will see your **smart contrac
 
 You can check everything there: [https://github.com/TrinityLabDAO/enx-vesting  
 ](https://github.com/TrinityLabDAO/enx-vesting
-)Smart Contract's list: [https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js](https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js)
-
-
-
-
+)Smart Contract's list: [https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js](https://github.com/TrinityLabDAO/enx-vesting/blob/main/src/contracts.js)  
+MetaMask: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
 
 
