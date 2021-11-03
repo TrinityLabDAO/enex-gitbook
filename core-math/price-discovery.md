@@ -1,5 +1,5 @@
 ---
-description: Aggregated prices in Pools and a way to find a USD value
+description: Aggregated prices in Pools and a way to find the USD value
 ---
 
 # Price Discovery
