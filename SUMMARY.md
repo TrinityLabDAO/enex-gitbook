@@ -2,7 +2,7 @@
 
 * [Welcome to ENEX.SPACE](README.md)
 
-## Exchange <a id="exchange-1"></a>
+## Exchange <a href="exchange-1" id="exchange-1"></a>
 
 * [Swap](exchange-1/swap.md)
 * [Liquidity Pools](exchange-1/liquidity-pools.md)
@@ -15,7 +15,7 @@
 
 ## Space Farming
 
----
+***
 
 * [Space Drop](space-pools.md)
 * [Space Harvest Farm](yield-farming-space-harvest-farm.md)
@@ -29,11 +29,11 @@
 
 ## Token Machine
 
-* [Token machine \(ETM\)](token-machine/token-machine-etm.md)
+* [Token machine (ETM)](token-machine/token-machine-etm.md)
 
-## TOKENOMICS <a id="tokenomics-1"></a>
+## TOKENOMICS <a href="tokenomics-1" id="tokenomics-1"></a>
 
----
+***
 
 * [Tokenomics](tokenomics.md)
 
@@ -49,4 +49,4 @@
 ## Core Math
 
 * [Inside the ENEX](core-math/appendix.md)
-
+* [Price Discovery](core-math/price-discovery.md)
